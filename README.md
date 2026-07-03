@@ -22,7 +22,7 @@ Busco minha primeira oportunidade como desenvolvedor, onde eu possa aplicar meus
 
 
 ## Tecnologias e Ferramentas
-Tecnologias que utilizadas em projetos acadêmicos e estudos.
+Tecnologias utilizadas em projetos acadêmicos e estudos.
 <p align="left">
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
