@@ -42,13 +42,19 @@ Tecnologias que utilizo em projetos acadêmicos e estudos.
 </p>
  - 🗄️ Bancos de dados relacionais
 
-## 🚀 Foco atual
+## Foco atual
 
 - 📚 Estudando desenvolvimento back-end com Python
 - 💻 Construindo projetos pessoais e academicos
 - 🌱 Aprendendo boas práticas do desenvolvimento de software
-          
 
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizfelipefavoretto/)
+
+📧 E-mail: favorettof14@gmail.com
+          
+  
 
             
 <!--
