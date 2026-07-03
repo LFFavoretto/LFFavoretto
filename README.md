@@ -22,7 +22,7 @@ Busco minha primeira oportunidade como desenvolvedor, onde eu possa aplicar meus
 
 
 ## Tecnologias e Ferramentas
-Tecnologias que utilizo em projetos acadêmicos e estudos.
+Tecnologias que utilizadas em projetos acadêmicos e estudos.
 <p align="left">
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
@@ -44,7 +44,7 @@ Tecnologias que utilizo em projetos acadêmicos e estudos.
 
 ## Foco atual
 
-- 📚 Estudando desenvolvimento back-end com Python
+- 📚 Aprofundando meu conhecimento em desenvolvimento back-end com Python
 - 💻 Construindo projetos pessoais e academicos
 - 🌱 Aprendendo boas práticas do desenvolvimento de software
 
