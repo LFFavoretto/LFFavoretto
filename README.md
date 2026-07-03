@@ -37,9 +37,9 @@ Tecnologias que utilizo em projetos acadêmicos e estudos.
       
 <p align="left">
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-  - 🗄️ Bancos de dados relacionais
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/> 
 </p>
+ - 🗄️ Bancos de dados relacionais
 
 ## Atualmente
 
